@@ -421,7 +421,6 @@ form div{
   margin-top: 60px;
 }
 .testimonials .card i  {
-  background-color: #007bff;
   color: #ffffff;
   width: 100px;
   height: 100px;
@@ -430,6 +429,7 @@ form div{
 }
 .testimonials .card i img{
   border-radius: 50%;
+  width: 10rem;
 
 }
 
