@@ -12,7 +12,7 @@ body{
 #Home{
     background-color: #CDB4DB;
 }
-header{
+header,#Testimonial{
     background-color: #BDE0FE ;
 }
 header div .nav-link{
@@ -39,7 +39,6 @@ header img{
     height: 100vh;
 }
 .testimonials-section {
-    background: #fff;
     height: 100%;
     position: relative;
     width: 100%;
