@@ -242,7 +242,7 @@ article img{
    .Fard-social__items svg {
     display: block;
     width: 40px;
-    fill: #515F65;
+    fill: green;
     cursor: pointer;
     transition: fill 0.2s ease ,transform 0.2s ease;
    }
@@ -407,3 +407,30 @@ form div{
 
 
 /* Contact & Footer */
+/* Review */
+.testimonials {
+  padding: 100px 0;
+
+}
+.testimonials h3 {
+  margin-bottom: 20px;
+}
+.testimonials .card {
+  border-bottom: 3px #007bff solid !important;
+  transition: 0.5s;
+  margin-top: 60px;
+}
+.testimonials .card i  {
+  background-color: #007bff;
+  color: #ffffff;
+  width: 100px;
+  height: 100px;
+  margin: -40px auto 0 auto;
+  margin-bottom: 2rem;
+}
+.testimonials .card i img{
+  border-radius: 50%;
+
+}
+
+/* Review */
